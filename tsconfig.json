@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2021",
+    "outDir": "build",
+    "baseUrl": ".",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "extendedDiagnostics": true,
+    "skipLibCheck": true,
+  },
+  "lib": ["es2021"],
+  "exclude": [
+    "node_modules"
+  ]
+}
